@@ -1,0 +1,35 @@
+************************************
+Amount to be paid: 691.055
+Imported: 700
+Surrender: 8.94501
+------------------------------------
+
+Bread_ordinary
+	3.5 * 10.59 = 37.065
+Pineapple_turkish
+	1 * 99.8 = 99.8
+Sausage_moscow
+	2.5 * 99.99 = 249.975
+Sausage_salami
+	5.1 * 59.65 = 304.215
+------------------------------------
+4-1-2022, 17:13:6
+Thank you for your purchase, have a nice day
+************************************
+************************************
+Amount to be paid: 274.425
+Payment by card
+------------------------------------
+
+Tomato_common
+	2.5 * 35.45 = 88.625
+Lemon_usual
+	0.5 * 70.25 = 35.125
+Sausage_salami
+	2 * 59.65 = 119.3
+Bread_baton
+	2.5 * 12.55 = 31.375
+------------------------------------
+4-1-2022, 19:16:31
+Thank you for your purchase, have a nice day
+************************************

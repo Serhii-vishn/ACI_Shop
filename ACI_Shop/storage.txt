@@ -1,0 +1,12 @@
+
+2		Bread_ordinary		8.5			10.59
+4		Bread_baton		11.5			12.55
+6		Greenhouse_cucumber	30			31.99
+8		Pineapple_turkish	17.3			99.8
+10		Tomato_common		23.4			35.45
+14		Sausage_salami		12.9			59.65
+16		Sausage_moscow		17.5			99.99
+18		Orange_ormal		35			45.89
+20		Lemon_usual		25			70.25
+22		Paprika			18			35.26
+24		Pineapple_usual		10			52.5
