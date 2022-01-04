@@ -9,5 +9,12 @@ ACI_shop - Automated control information for Shop
   The integrity of the data in the program itself provides several files with different data, for ease of further processing of information, so there is a file that stores all the receipts, the file which contains information about the goods that are present in the warehouse, Access to this file from the program has only the administrator, there is also a file that stores data about the administrator (login and password), so in the file of the program before the first launch it is necessary to make a name, login and password, so that the program could authorize the administrator.
 
   The interface is designed with an emphasis on possible mistakes of the user, so there is a note to confirm the actions, or return, by hierarchy, to the previous menu item. Also, attention is paid to the processing of the entered data to ensure trouble-free operation of the software.
+  
+  Documentation file
+  -------------------------------------------
+  This folder contains documents that I created before, during and after the development of the information system for the store. Each file is disassembled one or another factor that affects the software:  
+   -Project_plan_doc and Project_plan documents aimed at describing the life cycle, stages, resources, etc. in the development of the system;   
+   -Terms_of_Reference this document describes the main tasks that the software performs, how it reacts to external factors and others;   
+   -Presentation visualization and a brief presentation of the project itself for a quick understanding of all the above-mentioned files.
 ___________________________________________________________________________________________________ 
 @by Serhii Vyshnevskyi 2021
