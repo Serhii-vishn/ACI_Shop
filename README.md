@@ -17,4 +17,4 @@ ACI_shop - Automated control information for Shop
    -Terms_of_Reference this document describes the main tasks that the software performs, how it reacts to external factors and others;   
    -Presentation visualization and a brief presentation of the project itself for a quick understanding of all the above-mentioned files.
 ___________________________________________________________________________________________________ 
-@by Serhii Vyshnevskyi 2021
+@by Serhii Vyshnevskyi 2022
